@@ -1,0 +1,25 @@
+{
+  "name": "ingedoc-boolean-search",
+  "version": "1.0.0",
+  "description": "The Boolean model is a mathematical representation of the content of a document, according to a set approach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arasfi/ingedoc-boolean-search.git"
+  },
+  "keywords": [
+    "boolean",
+    "search",
+    "indexing",
+    "document"
+  ],
+  "author": "Abdelhakim RASFI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arasfi/ingedoc-boolean-search/issues"
+  },
+  "homepage": "https://github.com/arasfi/ingedoc-boolean-search#readme"
+}
